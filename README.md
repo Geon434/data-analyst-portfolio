@@ -1,17 +1,20 @@
 # Data-analyst-portfolio
 ## Содержание
 + О себе
-+ Пет-проекты
++ Проекты
 + Навыки
 + Контакты
 ## О себе
 + 19 лет
 + 
-## Пет-проекты
+## Проекты
+|#|Название проекта|Сфера|Описание проекта|Стек|
+|-----|-----|-----|-----|-----|
+|1|[Принятие решений в бизнесе](Prefabricated_Project_2.ipynb)|Интернет-магазин|Приоритизация гипотез по фреймворкам ICE и RICE. Оценка результатов A/B-тестирования. Построение графиков кумулятивной выручки, среднего чека, конверсий по группам. Расчет статистической значимости различий конверсий и средних чеков по сырым и очищенным данным| `pandas` `numpy` `seaborn` `scipy` `matplotib` |
+|2|[Сборный проект 2](Decision%20making%20in%20business.ipynb)|Мобильное приложение|Изучение воронки продаж, категоризация на клиентов и пользователей, когортный анализ, сравнение конверсий в группах по принципу А/В-теста|`pandas` `numpy` `seaborn` `scipy` `matplotib` `plotly`|
 ## Навыки
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
++ Языки: Python (Pandas, Numpy, Scipy, Matplotlib, Plotly, Seaborn)
++ Инструменты: PostgreSQL
 ## Контакты
-butuzovgrigorii@gmail.com
-https://t.me/geon434
-
++ butuzovgrigorii@gmail.com
++ https://t.me/geon434
