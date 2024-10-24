@@ -6,8 +6,7 @@
 + Контакты
 
 ## О себе
-+ 19 лет
-+ Санкт-Петербург
+Просто парень 19 лет любящий анализ данных😊
 
 ## Проекты
 |#|Название проекта|Сфера|Стек|
@@ -18,8 +17,10 @@
 |4|[Анализ сервиса аренды самокатов](analysis_of_the_scooter_rental_service.ipynb)|Мобильное приложение|`pandas` `numpy` `scipy` `matplotib`|
 |5|[Исследование объявлений о продаже квартир](research_of_advertisements_for_the_sale_of%20_apartments.ipynb)|База недвижимости|`pandas` `matplotib`|
 ## Навыки
-+ Языки: Python (Pandas, Numpy, Scipy, Matplotlib, Plotly, Seaborn)
-+ Инструменты: PostgreSQL
++ Python (Pandas, Numpy, Scipy, Matplotlib, Plotly, Seaborn)
++ Инструменты: PostgreSQL, ClickHouse
++ Tablue, Superset
++ AirFlow
 
 ## Контакты
 + butuzovgrigorii@gmail.com
